@@ -1,0 +1,8 @@
+{
+	"build-widget": {
+		"widgets": [
+			"src/a/MyWidget.tsx",
+			"src/b/MyWidget.tsx"
+		]
+	}
+}
